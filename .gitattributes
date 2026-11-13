@@ -1,0 +1,13 @@
+# Treat CAD and mesh files as binary so git doesn't attempt line-diffs.
+*.f3d   binary
+*.step  binary
+*.stp   binary
+*.3mf   binary
+*.stl   binary
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+
+# If these files start changing often and bloating history, enable Git LFS instead:
+#   git lfs track "*.f3d" "*.step" "*.3mf" "*.stl"
+# (requires `git lfs install` and committing the resulting .gitattributes entries)
