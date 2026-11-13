@@ -2,14 +2,13 @@
 
 A 3D-printable tatting shuttle that prints flat and glues into the classic boat shape, so it needs no supports and has no layer lines across the thread path. The set includes a two-part press-fit bobbin and five picot gauges. The shuttle is parametric — set your own size, and match it to your printer.
 
-<!-- Replace with a real photo of the printed set -->
-![Tatting Shuttle Set](images/cover.png)
+![Tatting Shuttle Set](images/intro.png)
 
 ## Get it / print it
 
 - **Source and files**: https://github.com/arnoesterhuizen/tatting-shuttle-set (this repository)
-- **MakerWorld** (customizable in-browser): coming soon
-- **Printables**: coming soon
+- **MakerWorld** (customizable in-browser): https://makerworld.com/en/models/3604307-parametric-tatting-shuttle-set-picot-gauges
+- **Printables**: https://www.printables.com/model/1907765-parametric-tatting-shuttle-set-picot-gauges
 
 ## Why this exists
 
@@ -123,7 +122,3 @@ The Fusion source and a STEP export are both included, so you can edit the desig
 [CC BY-SA 4.0](LICENSE). Use it, remix it, and sell prints of it — credit the design and release any modified design under the same license.
 
 Design by Arno Esterhuizen.
-
----
-
-![Tatting Shuttle Set](images/intro.png)
